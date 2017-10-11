@@ -1,0 +1,1 @@
+# 由于 USERINFO_LOGIN 和 UPDATE_CITYNAME 在个文件中用到，因此单独放置在一个文件夹中作为全局变量被引用

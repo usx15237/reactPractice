@@ -1,0 +1,1 @@
+# actions文件夹下的userinfo定义了一些用户的操作   这些方法将用于apDispatchToProps方法
